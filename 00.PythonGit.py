@@ -1,1 +1,2 @@
-hola = "Hola eloy"
+hola = "Hola mundo"
+hola1 = "hola eloy"
